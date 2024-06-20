@@ -1,0 +1,60 @@
+D:\spkt\Windows\GIUAKY2\HIHI\GAME\GAME\bin\Debug\GAME.exe.config
+D:\spkt\Windows\GIUAKY2\HIHI\GAME\GAME\bin\Debug\GAME.exe
+D:\spkt\Windows\GIUAKY2\HIHI\GAME\GAME\bin\Debug\GAME.pdb
+D:\spkt\Windows\GIUAKY2\HIHI\GAME\GAME\obj\Debug\GAME.csproj.AssemblyReference.cache
+D:\spkt\Windows\GIUAKY2\HIHI\GAME\GAME\obj\Debug\GAME.csproj.SuggestedBindingRedirects.cache
+D:\spkt\Windows\GIUAKY2\HIHI\GAME\GAME\obj\Debug\GAME.Form1.resources
+D:\spkt\Windows\GIUAKY2\HIHI\GAME\GAME\obj\Debug\GAME.Properties.Resources.resources
+D:\spkt\Windows\GIUAKY2\HIHI\GAME\GAME\obj\Debug\GAME.csproj.GenerateResource.cache
+D:\spkt\Windows\GIUAKY2\HIHI\GAME\GAME\obj\Debug\GAME.csproj.CoreCompileInputs.cache
+D:\spkt\Windows\GIUAKY2\HIHI\GAME\GAME\obj\Debug\GAME.exe
+D:\spkt\Windows\GIUAKY2\HIHI\GAME\GAME\obj\Debug\GAME.pdb
+D:\spkt\Windows\GIUAKY2\HIHI\GAME\GAME\obj\Debug\GAME.Form2.resources
+G:\C#\Winforms\GAME\GAME\bin\Debug\GAME.exe
+D:\Winform\GAME (2)\GAME\bin\Debug\GAME.exe.config
+D:\Winform\GAME (2)\GAME\bin\Debug\GAME.exe
+D:\Winform\GAME (2)\GAME\bin\Debug\GAME.pdb
+D:\Winform\GAME (2)\GAME\obj\Debug\GAME.csproj.AssemblyReference.cache
+D:\Winform\GAME (2)\GAME\obj\Debug\GAME.csproj.SuggestedBindingRedirects.cache
+D:\Winform\GAME (2)\GAME\obj\Debug\GAME.Form1.resources
+D:\Winform\GAME (2)\GAME\obj\Debug\GAME.Form2.resources
+D:\Winform\GAME (2)\GAME\obj\Debug\GAME.Properties.Resources.resources
+D:\Winform\GAME (2)\GAME\obj\Debug\GAME.csproj.GenerateResource.cache
+D:\Winform\GAME (2)\GAME\obj\Debug\GAME.csproj.CoreCompileInputs.cache
+D:\Winform\GAME (2)\GAME\obj\Debug\GAME.exe
+D:\Winform\GAME (2)\GAME\obj\Debug\GAME.pdb
+D:\Winform\GAME\GAME\bin\Debug\GAME.exe.config
+D:\Winform\GAME\GAME\bin\Debug\GAME.exe
+D:\Winform\GAME\GAME\bin\Debug\GAME.pdb
+D:\Winform\GAME\GAME\obj\Debug\GAME.csproj.AssemblyReference.cache
+D:\Winform\GAME\GAME\obj\Debug\GAME.csproj.SuggestedBindingRedirects.cache
+D:\Winform\GAME\GAME\obj\Debug\GAME.Form1.resources
+D:\Winform\GAME\GAME\obj\Debug\GAME.Form2.resources
+D:\Winform\GAME\GAME\obj\Debug\GAME.Properties.Resources.resources
+D:\Winform\GAME\GAME\obj\Debug\GAME.csproj.GenerateResource.cache
+D:\Winform\GAME\GAME\obj\Debug\GAME.csproj.CoreCompileInputs.cache
+D:\Winform\GAME\GAME\obj\Debug\GAME.exe
+D:\Winform\GAME\GAME\obj\Debug\GAME.pdb
+G:\C#\Winforms\GAME\GAME\bin\Debug\GAME.exe.config
+G:\C#\Winforms\GAME\GAME\obj\Debug\GAME.csproj.AssemblyReference.cache
+G:\C#\Winforms\GAME\GAME\obj\Debug\GAME.csproj.SuggestedBindingRedirects.cache
+G:\C#\Winforms\GAME\GAME\obj\Debug\GAME.FrmGame.resources
+G:\C#\Winforms\GAME\GAME\obj\Debug\GAME.FrmMenu.resources
+G:\C#\Winforms\GAME\GAME\obj\Debug\GAME.Properties.Resources.resources
+G:\C#\Winforms\GAME\GAME\obj\Debug\GAME.csproj.GenerateResource.cache
+G:\C#\Winforms\GAME\GAME\obj\Debug\GAME.csproj.CoreCompileInputs.cache
+G:\C#\Winforms\GAME\GAME\obj\Debug\GAME.exe
+G:\C#\Winforms\GAME\GAME\obj\Debug\GAME.pdb
+G:\C#\Winforms\GAME\GAME\bin\Debug\GAME.pdb
+D:\spkt\Windows\GIUAKY2\HIHI\9-5 13h40\GAME\GAME\bin\Debug\GAME.exe.config
+D:\spkt\Windows\GIUAKY2\HIHI\9-5 13h40\GAME\GAME\bin\Debug\GAME.exe
+D:\spkt\Windows\GIUAKY2\HIHI\9-5 13h40\GAME\GAME\bin\Debug\GAME.pdb
+D:\spkt\Windows\GIUAKY2\HIHI\9-5 13h40\GAME\GAME\obj\Debug\GAME.csproj.AssemblyReference.cache
+D:\spkt\Windows\GIUAKY2\HIHI\9-5 13h40\GAME\GAME\obj\Debug\GAME.csproj.SuggestedBindingRedirects.cache
+D:\spkt\Windows\GIUAKY2\HIHI\9-5 13h40\GAME\GAME\obj\Debug\GAME.FrmGame.resources
+D:\spkt\Windows\GIUAKY2\HIHI\9-5 13h40\GAME\GAME\obj\Debug\GAME.FrmMenu.resources
+D:\spkt\Windows\GIUAKY2\HIHI\9-5 13h40\GAME\GAME\obj\Debug\GAME.Properties.Resources.resources
+D:\spkt\Windows\GIUAKY2\HIHI\9-5 13h40\GAME\GAME\obj\Debug\GAME.csproj.GenerateResource.cache
+D:\spkt\Windows\GIUAKY2\HIHI\9-5 13h40\GAME\GAME\obj\Debug\GAME.csproj.CoreCompileInputs.cache
+D:\spkt\Windows\GIUAKY2\HIHI\9-5 13h40\GAME\GAME\obj\Debug\GAME.exe
+D:\spkt\Windows\GIUAKY2\HIHI\9-5 13h40\GAME\GAME\obj\Debug\GAME.pdb
